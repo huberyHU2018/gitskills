@@ -1,2 +1,2 @@
-Creating a new branch is quick and simple.
-Git is power.
+Creating a git is quick and simple
+
